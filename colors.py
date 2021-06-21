@@ -1,0 +1,10 @@
+class bcolors:
+    HEADERS = '\033[1m'
+    WARNING = '\033[91m'
+    ORANGE = '\033[33m'
+    PURPE = '\033[35m'
+    OK = '\033[92m'
+    OKBLUE = '\033[94m'
+    ENDC = '\033[0m'
+    UNDERLINE = '\033[4m'
+    B = '\033[3m'
